@@ -1,4 +1,4 @@
-@media (max-width: 1868px) {
+@media (max-width: 768px) {
   .video-player {
     width: 100%;
     background: 0 0;
@@ -22,7 +22,7 @@
 }
 
 body {
-  font-size: 27px;
+  font-size: 24px;
 }
 
 .fb-comments {
@@ -41,7 +41,7 @@ body {
 }
 
 .fb-comments-header span {
-  color: #000;
+  color: #000;.h3, h3
   font-weight: 700;
   font-size: 0.9em;
 }
@@ -66,7 +66,7 @@ td {
 }
 
 td {
-  padding: 2.5px;
+  padding: 3.5px;
 }
 
 tr {
